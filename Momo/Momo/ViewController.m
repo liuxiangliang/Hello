@@ -21,6 +21,10 @@
     NSLog(@"打印一句话");
 }
 
+-(void)add{
+    
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
