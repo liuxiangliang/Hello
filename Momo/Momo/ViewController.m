@@ -16,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    
+    NSLog(@"打印一句话");
 }
 
 - (void)didReceiveMemoryWarning {
